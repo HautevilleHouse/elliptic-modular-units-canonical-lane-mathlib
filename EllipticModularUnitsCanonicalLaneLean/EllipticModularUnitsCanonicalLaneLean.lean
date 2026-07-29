@@ -1,0 +1,16 @@
+import EllipticModularUnitsCanonicalLaneLean.AdmissibleClass
+import EllipticModularUnitsCanonicalLaneLean.BridgeLemmas
+import EllipticModularUnitsCanonicalLaneLean.GateLemmas
+import EllipticModularUnitsCanonicalLaneLean.FinalTheorem
+import EllipticModularUnitsCanonicalLaneLean.ModularUnitSubstrate
+import EllipticModularUnitsCanonicalLaneLean.SiegelUnitLayer
+import EllipticModularUnitsCanonicalLaneLean.KroneckerLimitLayer
+import EllipticModularUnitsCanonicalLaneLean.CuspFormLayer
+
+namespace HautevilleHouse
+namespace EllipticModularUnitsCanonicalLaneLean
+
+-- Root module for Elliptic Modular Units canonical lane
+
+end EllipticModularUnitsCanonicalLaneLean
+end HautevilleHouse
